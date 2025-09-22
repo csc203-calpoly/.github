@@ -1,9 +1,9 @@
 # CSC 203 Cal Poly
 
-This is the organization for CSC 203 at Cal Poly.
+This is the organization for CSC 203 at Cal Poly. It contains a bunch of PUBLIC and PRIVATE repos.
 
 If you're seeing this, I assume you're an instructor (and member of the organization).
-The organization contains a bunch of PUBLIC and PRIVATE repos.
+
 
 ## Public repos
 
